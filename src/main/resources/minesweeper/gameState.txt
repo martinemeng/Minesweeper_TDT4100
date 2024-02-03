@@ -1,0 +1,10 @@
+10 1 0 0 
+xxx xxx xxx xxx xxx xxx xxx xxx xxx 
+bxx xxx xxx bxx xxx xxx xxx xxx xxx 
+xxo xxo bxx xxx xxx xxx xxx xxx xxx 
+xxo xxo xxo xxo xxo bxx xxx xxx xxx 
+xxo xxo xxo xxo xxo xxx xxx xxx xxx 
+xxo xxo xxo xxo xxo xxx xxx xxx xxx 
+xxo xxo xxo xxo bxx xxx xxx xxx xxx 
+xxo xxo bxx xxx xxx xxx bxx xxx xxx 
+xxo xxo xxx bxx xxx xxx bxx xxx bxx 
