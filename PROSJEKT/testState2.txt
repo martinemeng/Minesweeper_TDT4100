@@ -1,0 +1,7 @@
+5 1 0 0 
+xxx bxx xxx xxx xxx xxx 
+bxx xfx xxo xxo bxx xxx 
+xxo xxo xxo xxo xxx xxx 
+xxo xxo xxo xxo xxx xxx 
+xxo xxo xxo xxo bxx xxx 
+xxo xxo xxo xxo bxx xxx 
